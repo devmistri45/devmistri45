@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dev%20Mistri%20Cybersecurity%20&%20AI%20Enthusiast&animation=fadeIn&section=header
+
 # Hi 👋 I'm Dev Mistri
 
 ### Cybersecurity & AI Enthusiast
