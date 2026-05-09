@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dev%20Mistri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Cybersecurity+Enthusiast;AI+Learner;Cloud+Explorer;Ethical+Hacking+Student)](https://git.io/typing-svg)
+
 # Hi 👋 I'm Dev Mistri
 
 ### Cybersecurity & AI Enthusiast
@@ -61,6 +63,9 @@
 * Figma
 * Canva
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,aws,gcp,git,github,vscode" />
+</p>
 ---
 
 ## 📌 Featured Projects
