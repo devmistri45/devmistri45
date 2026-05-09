@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dev%20Mistri%20Cybersecurity%20&%20AI%20Enthusiast&animation=fadeIn&section=header
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dev%20Mistri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18)
 
 # Hi 👋 I'm Dev Mistri
 
