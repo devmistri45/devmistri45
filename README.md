@@ -107,11 +107,3 @@ I enjoy learning how AI and Cybersecurity can work together to solve real-world 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devmistri45\&theme=tokyonight)
 ---
-
-## 📊 GitHub Stats
-
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmistri45\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmistri45\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=devmistri45\&theme=tokyonight)
