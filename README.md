@@ -17,17 +17,17 @@
 
 * 🔭 Currently learning:
 
-  * Ethical Hacking
-  * Generative AI
-  * Cloud Security
-  * Network Security
+* Ethical Hacking
+* Generative AI
+* Cloud Security
+* Network Security
 
 * 🌱 Exploring:
 
-  * AWS
-  * Google Cloud
-  * AI Security
-  * Penetration Testing
+* AWS
+* Google Cloud
+* AI Security
+* Penetration Testing
 
 * 🎯 Goal:
   Become a Cybersecurity & AI Engineer
@@ -39,7 +39,6 @@
 ### Languages & Tools
 
 * Python
-* C++
 * Git & GitHub
 * Linux
 * Kali Linux
