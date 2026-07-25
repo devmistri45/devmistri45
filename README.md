@@ -2,18 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Cybersecurity+Enthusiast;AI+Learner;Cloud+Explorer;Ethical+Hacking+Student)](https://git.io/typing-svg)
 
-# Hi 👋 I'm Dev Mistri
+## Hi I'm Dev
 
 ### Cybersecurity & AI Enthusiast
 
-🎓 B.Tech IT Student at Ganpat University
 🔐 Passionate about Cybersecurity, Ethical Hacking & AI
 ☁️ Learning Cloud Technologies, Security Research & AI Tools
 🚀 Building projects to improve real-world security solutions
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 * 🔭 Currently learning:
 
@@ -22,19 +21,16 @@
 * Cloud Security
 * Network Security
 
-* 🌱 Exploring:
+### 🌱 Exploring:
 
 * AWS
 * Google Cloud
 * AI Security
-* Penetration Testing
-
-* 🎯 Goal:
-  Become a Cybersecurity & AI Engineer
-
+* VAPT
+  
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ### Languages & Tools
 
@@ -58,51 +54,17 @@
 * Prompt Engineering
 
 ### Design
-
-* Figma
-* Canva
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,aws,gcp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,linux,aws,gcp,git,github,vscode" />
 </p>
----
 
-## 📌 Featured Projects
-
-### 🔐 Ethical Hacking Practice Labs
-
-Performed penetration testing and vulnerability assessments using Kali Linux and security tools.
-
-### ☁️ Cloud Learning Projects
-
-Hands-on Google Cloud labs including compute, networking and storage services.
-
----
-
-## 📜 Certifications
-
-* Google Cloud Study Jams 2025
-* AI Aware Badge — Digital India
-* AI Appreciate Badge — Digital India
-* Introduction to Ethical Hacking
-* Introduction to Cybersecurity
-
----
+--- 
 
 ## 📫 Connect With Me
 
 * LinkedIn:
   https://linkedin.com/in/dev-mistri-8181b2330
-
-* GitHub:
-  https://github.com/devmistri45
-
----
-
-## ⚡ Fun Fact
-
-I enjoy learning how AI and Cybersecurity can work together to solve real-world problems.
-
+  
 ---
 
 ## 📊 GitHub Stats
