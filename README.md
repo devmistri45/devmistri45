@@ -53,7 +53,6 @@
 * Generative AI
 * Prompt Engineering
 
-### Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,linux,aws,gcp,git,github,vscode" />
 </p>
