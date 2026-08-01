@@ -6,31 +6,26 @@
 
 ### Cybersecurity & AI Enthusiast
 
-🔐 Passionate about Cybersecurity, Ethical Hacking & AI
-☁️ Learning Cloud Technologies, Security Research & AI Tools
-🚀 Building projects to improve real-world security solutions
+Passionate about Cybersecurity, Ethical Hacking & AI
+Learning Cloud Technologies, Security Research & AI Tools
+Building projects to improve real-world security solutions
 
----
-
-### 🧠 About Me
+## 🧠 About Me
 
 * 🔭 Currently learning:
-
 * Ethical Hacking
 * Generative AI
 * Cloud Security
 * Network Security
 
-### 🌱 Exploring:
+## 🌱 Exploring:
 
 * AWS
 * Google Cloud
 * AI Security
 * VAPT
   
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages & Tools
 
@@ -57,15 +52,11 @@
   <img src="https://skillicons.dev/icons?i=python,linux,aws,gcp,git,github,vscode" />
 </p>
 
---- 
-
 ## 📫 Connect With Me
 
 * LinkedIn:
   https://linkedin.com/in/dev-mistri-8181b2330
   
----
-
 ## 📊 GitHub Stats
 
 ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmistri45\&show_icons=true\&theme=tokyonight)
@@ -73,4 +64,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmistri45\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devmistri45\&theme=tokyonight)
----
