@@ -1,0 +1,100 @@
+<svg width="600" height="195" viewBox="0 0 600 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39E6C8">
+        <animate attributeName="stop-color"
+          values="#39E6C8;#4F8DFF;#B84FFF;#FF4FA1;#FFB84F;#39E6C8"
+          dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="25%" stop-color="#4F8DFF">
+        <animate attributeName="stop-color"
+          values="#4F8DFF;#B84FFF;#FF4FA1;#FFB84F;#39E6C8;#4F8DFF"
+          dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#B84FFF">
+        <animate attributeName="stop-color"
+          values="#B84FFF;#FF4FA1;#FFB84F;#39E6C8;#4F8DFF;#B84FFF"
+          dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="75%" stop-color="#FF4FA1">
+        <animate attributeName="stop-color"
+          values="#FF4FA1;#FFB84F;#39E6C8;#4F8DFF;#B84FFF;#FF4FA1"
+          dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FFB84F">
+        <animate attributeName="stop-color"
+          values="#FFB84F;#39E6C8;#4F8DFF;#B84FFF;#FF4FA1;#FFB84F"
+          dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <filter id="brush" x="-20%" y="-50%" width="140%" height="200%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012 0.9" numOctaves="2" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="6" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+
+  <text x="30" y="85" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="64" font-style="italic" fill="url(#grad)"
+        filter="url(#brush)">
+    Dev Mistri
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    Ethical Hacking
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0107;0.0607;0.0714;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    SOC
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.125;0.1357;0.1857;0.1964;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    SIEM
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.2607;0.3107;0.3214;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    Network Security
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.375;0.3857;0.4357;0.4464;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    Blue Teaming
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5107;0.5607;0.5714;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    OSINT
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.625;0.6357;0.6857;0.6964;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    VAPT
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.7607;0.8107;0.8214;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="30" y="145" text-anchor="start"
+        font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+        font-size="26" font-style="italic" fill="url(#grad)" opacity="0" filter="url(#brush)">
+    AI
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.875;0.8857;0.9357;0.9464;1" dur="28.0s" repeatCount="indefinite"/>
+  </text>
+
+</svg>
