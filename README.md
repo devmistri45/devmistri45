@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dev%20Mistri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Cybersecurity+Enthusiast;AI+Learner;Cloud+Explorer;Ethical+Hacking+Student)](https://git.io/typing-svg)
 
 ## Hi I'm Dev
@@ -10,19 +9,19 @@ Passionate about Cybersecurity, Ethical Hacking & AI
 Learning Cloud Technologies, Security Research & AI Tools
 Building projects to improve real-world security solutions
 
-## 🧠 About Me
-
-* 🔭 Currently learning:
+## 🔭 Currently learning
+  
 * Ethical Hacking
-* Generative AI
-* Cloud Security
+* SOC
+* SIEM
 * Network Security
+* Generative AI
 
-## 🌱 Exploring:
+## 🌱 Exploring
 
-* AWS
-* Google Cloud
 * AI Security
+* Blue Teaming
+* OSINT
 * VAPT
   
 ## 🛠️ Tech Stack
@@ -31,8 +30,11 @@ Building projects to improve real-world security solutions
 
 * Python
 * Git & GitHub
+* Slack
 * Linux
 * Kali Linux
+* Wazuh
+* Splunk
 
 ### Cybersecurity
 
@@ -40,16 +42,18 @@ Building projects to improve real-world security solutions
 * Network Security
 * Cryptography
 * Vulnerability Assessment
+* OSINT
+* Analyzing unusual
 
 ### Cloud & AI
 
-* Google Cloud
 * AWS
 * Generative AI
 * Prompt Engineering
+* AI in Cybersecurity
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,aws,gcp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,linux,gcp,git,github" />
 </p>
 
 ## 📫 Connect With Me
