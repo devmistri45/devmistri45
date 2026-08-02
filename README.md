@@ -1,6 +1,4 @@
-![Dev Mistri](./header.svg)
-
-## Hi I'm Dev
+![Dev Mistri](./Header.svg)
 
 ### Cybersecurity & AI Enthusiast
 
